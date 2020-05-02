@@ -43,3 +43,5 @@ After creating a new form the previous one is eliminated to avoid the acumulatio
 
 An interesting lesson that gave me a lot of work but also a lot of satisfaction and acknowledge mainly in JavaScript, a beautifull lenguage that I´m certain
 I will continue studying.
+
+A very interesting exercise which, not only did it take me a lot of work, but also gave me a great satisfaction. It also helped me to acknowledge some concepts, mainly in JavaScript, a beautifull programming lenguage that I´ll definitely continue studying.
