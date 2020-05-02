@@ -17,7 +17,9 @@ Las instrucciones de la página están escritas en inglés.
 #### Conocimientos adquiridos:
 Es un proyecto en el que pude profundizar conocimientos de html,css y principalmente JavaScript.
 Se utilizó recursividad para la creación de las formas aleatorias.
+
 Luego de crear una nueva forma la anterior es eliminada para evitar la acumulación de "divs", esta eliminación se hace accediendo al "padre" que en este caso es la etiqueta <body> y eliminando la referencia al div que queremos eliminar.
+
 Una interesante propuesta que dio mucho trabajo pero también mucha satisfacción y conocimiento sobretodo de JavaScript, un lindo lenguaje el cual de seguro
 que seguiré estudiando.
 
@@ -36,6 +38,8 @@ The instructions of the page are written in English.
 #### Knowledge Acquired:
 It is a project where I deepenned my knoledge in html,css and mainly in JavaScript.
 Recursivity was used to create the random forms.
+
 After creating a new form the previous one is eliminated to avoid the acumulation of "div´s", this elimination is done acceding to the "father" that in this case is the label <body>, and eliminating the reference to the div we want to eliminate.
+
 An interesting proposal that gave me a lot of work but also a lot of satisfaction and knoledge mainly in JavaScript, a beautifull lenguage that I´m certain
 I will continue studying.
