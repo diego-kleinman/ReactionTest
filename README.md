@@ -16,7 +16,7 @@ Las instrucciones de la página están escritas en inglés.
 
 #### Conocimientos adquiridos:
 Es un proyecto en el que pude profundizar conocimientos de html,css y principalmente JavaScript.
-Se utilizó recursividad para la creación de las formas aleatorias.
+Se utilizó recursividad para la creación de las formas aleatorias, además luego de crear una nueva forma la anterior es eliminada para evitar la acumulación de "divs".
 Una interesante propuesta que dio mucho trabajo pero también mucha satisfacción y conocimiento sobretodo de JavaScript, un lindo lenguaje el cual de seguro
 que seguiré estudiando.
 
@@ -34,6 +34,6 @@ The course name is "The complete web developer course 2.0" and the professor is 
 The instructions of the page are written in English.
 #### Knowledge Acquired:
 It is a project where I deepenned my knoledge in html,css and mainly in JavaScript.
-Recursivity was used to create the random forms.
+Recursivity was used to create the random forms, also after creating a new form the previous one is eliminated to avoid the acumulation of "div´s".
 An interesting proposal that gave me a lot of work but also a lot of satisfaction and knoledge mainly in JavaScript, a beautifull lenguage that I´m certain
 I will continue studying.
