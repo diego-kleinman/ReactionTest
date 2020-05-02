@@ -4,7 +4,7 @@ ReactionTest / Test de tiempo de reaccion (HTML-CSS-Internal JS)
 ## Español/Spanish:
 
 #### Resumen del proyecto:
-En este proyecto se utilizó html,css,internal JavaScript
+En este proyecto se utilizó html,css,JavaScript
 
 La idea basica es testear el tiempo de reacción de una persona, generando circulos y cuadrados aleatoriamente en pantalla y contabilizando
 el tiempo que a la persona le lleva clickearlos y desplegandolo en pantalla.
@@ -26,7 +26,7 @@ que seguiré estudiando.
 ## Inglés/English:
 
 #### Project Resume:
-In this project I utiliced html,css,internal JavaScript.
+In this project I utiliced html,css,JavaScript.
 
 The basic idea was testing the reaction time of a person, generating circles and squares randomly on screen, counting the time it took
 that person to click them and showing it on the webpage.
