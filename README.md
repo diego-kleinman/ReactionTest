@@ -1,7 +1,9 @@
 # ReactionTest
 ReactionTest / Test de tiempo de reaccion (HTML-CSS-Internal JS)
 
-## Resumen del proyecto:
+## Español/Spanish:
+
+#### Resumen del proyecto:
 En este proyecto se utilizó html,css,internal JavaScript
 
 La idea basica es testear el tiempo de reacción de una persona, generando circulos y cuadrados aleatoriamente en pantalla y contabilizando
